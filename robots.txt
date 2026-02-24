@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ramazanbora.github.io/al-folio/sitemap.xml
+Sitemap: https://ramazanbora.github.io/sitemap.xml
